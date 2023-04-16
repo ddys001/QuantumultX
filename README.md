@@ -20,5 +20,5 @@ https://github.com/KOP-XIAO/QuantumultX/blob/master/Scripts/resource-parser.js
 
 
 
-<img src="https://tva1.sinaimg.cn/large/007S8ZIlgy1geiniiv2onj30u00u0wgi.jpg" alt="IMG_5957" style="zoom:23%;" />
+<img src="图片直连地址" alt="IMG_5957" style="zoom:23%;" />
 
